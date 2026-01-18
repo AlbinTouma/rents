@@ -1,0 +1,917 @@
+{
+  "id": 211249,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709072,
+    "lon": 11.941643
+  },
+  "uri": "/lagenhet/211249-1rum-göteborg-västra-götalands-län-lindholmshamnen-5",
+  "title": "Lindholmshamnen 5",
+  "rent": 7874,
+  "rooms": 1.0,
+  "area": 14.0,
+  "date_access": null,
+  "references": {
+    "estate": 7670,
+    "apartment": 129028,
+    "object_ad": 211249,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 211247,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709072,
+    "lon": 11.941643
+  },
+  "uri": "/lagenhet/211247-1rum-göteborg-västra-götalands-län-lindholmshamnen-5",
+  "title": "Lindholmshamnen 5",
+  "rent": 7993,
+  "rooms": 1.0,
+  "area": 15.0,
+  "date_access": null,
+  "references": {
+    "estate": 7670,
+    "apartment": 129023,
+    "object_ad": 211247,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 211246,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709072,
+    "lon": 11.941643
+  },
+  "uri": "/lagenhet/211246-1rum-göteborg-västra-götalands-län-lindholmshamnen-5",
+  "title": "Lindholmshamnen 5",
+  "rent": 8842,
+  "rooms": 1.0,
+  "area": 22.0,
+  "date_access": null,
+  "references": {
+    "estate": 7670,
+    "apartment": 129022,
+    "object_ad": 211246,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 211245,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709072,
+    "lon": 11.941643
+  },
+  "uri": "/lagenhet/211245-1rum-göteborg-västra-götalands-län-lindholmshamnen-5",
+  "title": "Lindholmshamnen 5",
+  "rent": 7874,
+  "rooms": 1.0,
+  "area": 14.0,
+  "date_access": null,
+  "references": {
+    "estate": 7670,
+    "apartment": 129021,
+    "object_ad": 211245,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 211248,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709072,
+    "lon": 11.941643
+  },
+  "uri": "/lagenhet/211248-1rum-göteborg-västra-götalands-län-lindholmshamnen-5",
+  "title": "Lindholmshamnen 5",
+  "rent": 7874,
+  "rooms": 1.0,
+  "area": 14.0,
+  "date_access": null,
+  "references": {
+    "estate": 7670,
+    "apartment": 129024,
+    "object_ad": 211248,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 231897,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.70978,
+    "lon": 11.93912
+  },
+  "uri": "/lagenhet/231897-3rum-göteborg-västra-götalands-län-lodjursstråket-1",
+  "title": "Lodjursstråket 1",
+  "rent": 18352,
+  "rooms": 3.0,
+  "area": 74.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 10762,
+    "apartment": 273725,
+    "object_ad": 231897,
+    "company": 3,
+    "office": 66,
+    "project": null
+  }
+}
+{
+  "id": 215520,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709164,
+    "lon": 11.941537
+  },
+  "uri": "/lagenhet/215520-1rum-göteborg-västra-götalands-län-lindholmshamnen-9",
+  "title": "Lindholmshamnen 9",
+  "rent": 8535,
+  "rooms": 1.0,
+  "area": 32.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 7670,
+    "apartment": 129035,
+    "object_ad": 215520,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 229816,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.70978,
+    "lon": 11.93912
+  },
+  "uri": "/lagenhet/229816-3rum-göteborg-västra-götalands-län-lodjursstråket-1",
+  "title": "Lodjursstråket 1",
+  "rent": 21165,
+  "rooms": 3.0,
+  "area": 93.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 10761,
+    "apartment": 257513,
+    "object_ad": 229816,
+    "company": 3,
+    "office": 66,
+    "project": null
+  }
+}
+{
+  "id": 220788,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6688325,
+    "lon": 11.9337058
+  },
+  "uri": "/lagenhet/220788-1rum-göteborg-västra-götalands-län-lilla-tunnlandsgatan-5",
+  "title": "Lilla Tunnlandsgatan 5",
+  "rent": 7131,
+  "rooms": 1.0,
+  "area": 35.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 949,
+    "apartment": 12061,
+    "object_ad": 220788,
+    "company": 148,
+    "office": 170,
+    "project": null
+  }
+}
+{
+  "id": 220881,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.668441,
+    "lon": 11.9337991
+  },
+  "uri": "/lagenhet/220881-2rum-göteborg-västra-götalands-län-lilla-tunnlandsgatan-3",
+  "title": "Lilla Tunnlandsgatan 3",
+  "rent": 9196,
+  "rooms": 2.0,
+  "area": 54.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 949,
+    "apartment": 268394,
+    "object_ad": 220881,
+    "company": 148,
+    "office": 170,
+    "project": null
+  }
+}
+{
+  "id": 231272,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.70978,
+    "lon": 11.93912
+  },
+  "uri": "/lagenhet/231272-1rum-göteborg-västra-götalands-län-lodjursstråket-1",
+  "title": "Lodjursstråket 1",
+  "rent": 10506,
+  "rooms": 1.0,
+  "area": 31.0,
+  "date_access": "2026-05-01",
+  "references": {
+    "estate": 12977,
+    "apartment": 253055,
+    "object_ad": 231272,
+    "company": 3,
+    "office": 66,
+    "project": null
+  }
+}
+{
+  "id": 223285,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.709164,
+    "lon": 11.941537
+  },
+  "uri": "/lagenhet/223285-1rum-göteborg-västra-götalands-län-lindholmshamnen-9",
+  "title": "Lindholmshamnen 9",
+  "rent": 8812,
+  "rooms": 1.0,
+  "area": 35.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 7670,
+    "apartment": 129055,
+    "object_ad": 223285,
+    "company": 200,
+    "office": 1592,
+    "project": null
+  }
+}
+{
+  "id": 228738,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.69917,
+    "lon": 11.94512
+  },
+  "uri": "/lagenhet/228738-2rum-göteborg-västra-götalands-län-kryssdäcket-1",
+  "title": "Kryssdäcket 1",
+  "rent": 7902,
+  "rooms": 2.0,
+  "area": 62.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 632,
+    "apartment": 274405,
+    "object_ad": 228738,
+    "company": 3,
+    "office": 67,
+    "project": null
+  }
+}
+{
+  "id": 228895,
+  "city": "GÖTEBORG",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.69941,
+    "lon": 11.96864
+  },
+  "uri": "/lagenhet/228895-1rum-göteborg-västra-götalands-län-vasaplatsen-5c",
+  "title": "Vasaplatsen 5C",
+  "rent": 7623,
+  "rooms": 1.0,
+  "area": 30.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 2197,
+    "apartment": 18469,
+    "object_ad": 228895,
+    "company": 3,
+    "office": 67,
+    "project": null
+  }
+}
+{
+  "id": 231251,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.70978,
+    "lon": 11.93912
+  },
+  "uri": "/lagenhet/231251-2rum-göteborg-västra-götalands-län-lodjursstråket-1",
+  "title": "Lodjursstråket 1",
+  "rent": 14058,
+  "rooms": 2.0,
+  "area": 50.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 10761,
+    "apartment": 276012,
+    "object_ad": 231251,
+    "company": 3,
+    "office": 66,
+    "project": null
+  }
+}
+{
+  "id": 229923,
+  "city": "GÖTEBORG",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.68808,
+    "lon": 11.98425
+  },
+  "uri": "/lagenhet/229923-3rum-göteborg-västra-götalands-län-örnehufvudsgatan-5",
+  "title": "Örnehufvudsgatan 5",
+  "rent": 12935,
+  "rooms": 3.0,
+  "area": 67.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 1904,
+    "apartment": 274837,
+    "object_ad": 229923,
+    "company": 3,
+    "office": 67,
+    "project": null
+  }
+}
+{
+  "id": 229868,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7116,
+    "lon": 11.98899
+  },
+  "uri": "/lagenhet/229868-2rum-göteborg-västra-götalands-län-friggagatan-21",
+  "title": "Friggagatan 21",
+  "rent": 12377,
+  "rooms": 2.0,
+  "area": 78.0,
+  "date_access": "2026-02-15",
+  "references": {
+    "estate": 437,
+    "apartment": 35587,
+    "object_ad": 229868,
+    "company": 3,
+    "office": 67,
+    "project": null
+  }
+}
+{
+  "id": 1215,
+  "city": "Mölndal",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6506182,
+    "lon": 11.9879459
+  },
+  "uri": "/projekt/1215",
+  "title": "Koltrasten",
+  "rent": null,
+  "rooms": null,
+  "area": null,
+  "date_access": "2026-05-01",
+  "references": {
+    "company": 31,
+    "office": 1270,
+    "project": 1215
+  }
+}
+{
+  "id": 222788,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6937807,
+    "lon": 11.9864893
+  },
+  "uri": "/lagenhet/222788-3rum-göteborg-västra-götalands-län-lundgrensgatan-16",
+  "title": "Lundgrensgatan 16",
+  "rent": 11206,
+  "rooms": 3.0,
+  "area": 73.0,
+  "date_access": null,
+  "references": {
+    "estate": 7883,
+    "apartment": 270392,
+    "object_ad": 222788,
+    "company": 1087,
+    "office": 1787,
+    "project": null
+  }
+}
+{
+  "id": 225695,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.698917,
+    "lon": 11.9671437
+  },
+  "uri": "/lagenhet/225695-2rum-göteborg-västra-götalands-län-karl-gustavsgatan-10-a",
+  "title": "Karl Gustavsgatan 10 A",
+  "rent": 9071,
+  "rooms": 2.0,
+  "area": 56.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 961,
+    "apartment": 95999,
+    "object_ad": 225695,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 226143,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6995526,
+    "lon": 11.9790094
+  },
+  "uri": "/lagenhet/226143-5rum-göteborg-västra-götalands-län-engelbrektsgatan-34-c",
+  "title": "Engelbrektsgatan 34 C",
+  "rent": 22795,
+  "rooms": 5.0,
+  "area": 165.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 1418,
+    "apartment": 106299,
+    "object_ad": 226143,
+    "company": 58,
+    "office": 62,
+    "project": null
+  }
+}
+{
+  "id": 227746,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6868804,
+    "lon": 11.9904222
+  },
+  "uri": "/lagenhet/227746-1rum-göteborg-västra-götalands-län-utlandagatan-31",
+  "title": "Utlandagatan 31",
+  "rent": 5201,
+  "rooms": 1.0,
+  "area": 17.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 2545,
+    "apartment": 77252,
+    "object_ad": 227746,
+    "company": 109,
+    "office": 116,
+    "project": null
+  }
+}
+{
+  "id": 226142,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6895555,
+    "lon": 11.9808728
+  },
+  "uri": "/lagenhet/226142-1.5rum-göteborg-västra-götalands-län-gibraltargatan-36",
+  "title": "Gibraltargatan 36",
+  "rent": 9722,
+  "rooms": 1.5,
+  "area": 55.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 5229,
+    "apartment": 273313,
+    "object_ad": 226142,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 228726,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6747282,
+    "lon": 11.9318753
+  },
+  "uri": "/lagenhet/228726-1rum-göteborg-västra-götalands-län-skäpplandsgatan-3",
+  "title": "Skäpplandsgatan 3",
+  "rent": 7611,
+  "rooms": 1.0,
+  "area": 42.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 792,
+    "apartment": 34913,
+    "object_ad": 228726,
+    "company": 103,
+    "office": 107,
+    "project": null
+  }
+}
+{
+  "id": 228715,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6721032,
+    "lon": 11.9358007
+  },
+  "uri": "/lagenhet/228715-1rum-göteborg-västra-götalands-län-marklandsgatan-29",
+  "title": "Marklandsgatan 29",
+  "rent": 5140,
+  "rooms": 1.0,
+  "area": 42.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 3252,
+    "apartment": 79402,
+    "object_ad": 228715,
+    "company": 103,
+    "office": 107,
+    "project": null
+  }
+}
+{
+  "id": 183058,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6887,
+    "lon": 11.989
+  },
+  "uri": "/lagenhet/183058-1rum-göteborg-västra-götalands-län-gyllenkrooksgatan-22",
+  "title": "Gyllenkrooksgatan 22",
+  "rent": 5200,
+  "rooms": 1.0,
+  "area": 10.0,
+  "date_access": "2026-06-01",
+  "references": {
+    "estate": 11623,
+    "apartment": 247803,
+    "object_ad": 183058,
+    "company": 1830,
+    "office": 2766,
+    "project": null
+  }
+}
+{
+  "id": 229082,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6979525,
+    "lon": 11.974649
+  },
+  "uri": "/lagenhet/229082-2rum-göteborg-västra-götalands-län-engelbrektsgatan-22-a",
+  "title": "Engelbrektsgatan 22 A",
+  "rent": 9314,
+  "rooms": 2.0,
+  "area": 58.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1658,
+    "apartment": 274554,
+    "object_ad": 229082,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 229293,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6987755,
+    "lon": 11.9768127
+  },
+  "uri": "/lagenhet/229293-7rum-göteborg-västra-götalands-län-kungsportsavenyn-37",
+  "title": "Kungsportsavenyn 37",
+  "rent": 38284,
+  "rooms": 7.0,
+  "area": 295.0,
+  "date_access": "2026-04-01",
+  "references": {
+    "estate": 3728,
+    "apartment": 41431,
+    "object_ad": 229293,
+    "company": 58,
+    "office": 62,
+    "project": null
+  }
+}
+{
+  "id": 226302,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7106532,
+    "lon": 11.9872676
+  },
+  "uri": "/lagenhet/226302-3rum-göteborg-västra-götalands-län-friggagatan-11-b",
+  "title": "Friggagatan 11 B",
+  "rent": 11692,
+  "rooms": 3.0,
+  "area": 87.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1727,
+    "apartment": 273375,
+    "object_ad": 226302,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 230095,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6923138,
+    "lon": 11.9505084
+  },
+  "uri": "/lagenhet/230095-3rum-göteborg-västra-götalands-län-alfhemsgatan-2a",
+  "title": "Alfhemsgatan 2A",
+  "rent": 9250,
+  "rooms": 3.0,
+  "area": 84.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 4360,
+    "apartment": 44143,
+    "object_ad": 230095,
+    "company": 144,
+    "office": 166,
+    "project": null
+  }
+}
+{
+  "id": 230147,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6920833,
+    "lon": 11.9490904
+  },
+  "uri": "/lagenhet/230147-3rum-göteborg-västra-götalands-län-olivedalsgatan-25",
+  "title": "Olivedalsgatan 25",
+  "rent": 11300,
+  "rooms": 3.0,
+  "area": 72.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 4877,
+    "apartment": 274892,
+    "object_ad": 230147,
+    "company": 144,
+    "office": 166,
+    "project": null
+  }
+}
+{
+  "id": 230225,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6946769,
+    "lon": 11.9599817
+  },
+  "uri": "/lagenhet/230225-2rum-göteborg-västra-götalands-län-nilssonsberg-36",
+  "title": "Nilssonsberg 36",
+  "rent": 8104,
+  "rooms": 2.0,
+  "area": 61.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 1031,
+    "apartment": 275105,
+    "object_ad": 230225,
+    "company": 154,
+    "office": 187,
+    "project": null
+  }
+}
+{
+  "id": 230314,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7122619,
+    "lon": 11.9990259
+  },
+  "uri": "/lagenhet/230314-2rum-göteborg-västra-götalands-län-norra-gubberogatan-23-a",
+  "title": "Norra Gubberogatan 23 A",
+  "rent": 10700,
+  "rooms": 2.0,
+  "area": 39.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1985,
+    "apartment": 275093,
+    "object_ad": 230314,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 230310,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7122619,
+    "lon": 11.9990259
+  },
+  "uri": "/lagenhet/230310-2rum-göteborg-västra-götalands-län-norra-gubberogatan-23-a",
+  "title": "Norra Gubberogatan 23 A",
+  "rent": 10300,
+  "rooms": 2.0,
+  "area": 37.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1985,
+    "apartment": 275081,
+    "object_ad": 230310,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 230312,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7122619,
+    "lon": 11.9990259
+  },
+  "uri": "/lagenhet/230312-2rum-göteborg-västra-götalands-län-norra-gubberogatan-23-a",
+  "title": "Norra Gubberogatan 23 A",
+  "rent": 10300,
+  "rooms": 2.0,
+  "area": 37.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1985,
+    "apartment": 275087,
+    "object_ad": 230312,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 230313,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.7122619,
+    "lon": 11.9990259
+  },
+  "uri": "/lagenhet/230313-1.5rum-göteborg-västra-götalands-län-norra-gubberogatan-23-a",
+  "title": "Norra Gubberogatan 23 A",
+  "rent": 10500,
+  "rooms": 1.5,
+  "area": 38.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 1985,
+    "apartment": 275092,
+    "object_ad": 230313,
+    "company": 151,
+    "office": 182,
+    "project": null
+  }
+}
+{
+  "id": 227100,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.699806,
+    "lon": 11.9391947
+  },
+  "uri": "/lagenhet/227100-1rum-göteborg-västra-götalands-län-oskarsgatan-9",
+  "title": "Oskarsgatan 9",
+  "rent": 6509,
+  "rooms": 1.0,
+  "area": 38.0,
+  "date_access": "2026-02-01",
+  "references": {
+    "estate": 7652,
+    "apartment": 186654,
+    "object_ad": 227100,
+    "company": 1082,
+    "office": 1773,
+    "project": null
+  }
+}
+{
+  "id": 230342,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.693474,
+    "lon": 11.9581768
+  },
+  "uri": "/lagenhet/230342-2rum-göteborg-västra-götalands-län-västergatan-11",
+  "title": "Västergatan 11",
+  "rent": 8415,
+  "rooms": 2.0,
+  "area": 55.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 972,
+    "apartment": 245243,
+    "object_ad": 230342,
+    "company": 67,
+    "office": 178,
+    "project": null
+  }
+}
+{
+  "id": 230403,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6934647,
+    "lon": 11.9573691
+  },
+  "uri": "/lagenhet/230403-3rum-göteborg-västra-götalands-län-övre-husargatan-10",
+  "title": "Övre Husargatan 10",
+  "rent": 12014,
+  "rooms": 3.0,
+  "area": 72.0,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 972,
+    "apartment": 275165,
+    "object_ad": 230403,
+    "company": 67,
+    "office": 178,
+    "project": null
+  }
+}
+{
+  "id": 225552,
+  "city": "Göteborg",
+  "county": "Västra Götalands län",
+  "location": {
+    "lat": 57.6882102,
+    "lon": 11.9911123
+  },
+  "uri": "/lagenhet/225552-1rum-göteborg-västra-götalands-län-utlandagatan-18",
+  "title": "Utlandagatan 18",
+  "rent": 5200,
+  "rooms": 1.0,
+  "area": 7.5,
+  "date_access": "2026-03-01",
+  "references": {
+    "estate": 3571,
+    "apartment": 67874,
+    "object_ad": 225552,
+    "company": 615,
+    "office": 934,
+    "project": null
+  }
+}
