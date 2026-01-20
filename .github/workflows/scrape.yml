@@ -6,24 +6,21 @@ on:
 
 jobs:
   update-alerts:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{secrets.GITHUB_TOKEN}}
+  runs-on: ubuntu-latest
+  steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+      with:
+        token: ${{secrets.GITHUB_TOKEN}}
       
      - name: Set up Python
-              uses: actions/setup-python@v4
-              with:
-                  python-version: '3.x'
-
-            - name: Run HomeQ scraper
-              run: |
-                  python main.py
-
-      
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
+       uses: actions/setup-python@v4
+       with:
+         python-version: '3.x'
+     - name: Run HomeQ scraper
+       run: |
+         python main.py
+     - name: Push changes
+       uses: ad-m/github-push-action@v0.6.0
+       with:
+         github_token: ${{secrets.GITHUB_TOKEN}}
