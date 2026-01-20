@@ -6,3 +6,11 @@
 2026-01-18 22:20:29,392 - INFO - Fetched page 1 with 401 results.
 2026-01-18 22:20:29,635 - INFO - No more data found. Exiting loop on page 2.
 2026-01-18 22:20:29,803 - INFO - Data fetching completed.
+2026-01-20 14:44:53,588 - INFO - Starting data fetch from HomeQ AP
+2026-01-20 14:44:54,159 - INFO - Fetched page 1 with 406 results.
+2026-01-20 14:44:54,415 - INFO - No more data found. Exiting loop on page 2.
+2026-01-20 14:44:54,470 - INFO - Data fetching completed.
+2026-01-20 14:47:03,153 - INFO - Starting data fetch from HomeQ AP
+2026-01-20 14:47:03,811 - INFO - Fetched page 1 with 407 results.
+2026-01-20 14:47:04,140 - INFO - No more data found. Exiting loop on page 2.
+2026-01-20 14:47:04,205 - INFO - Data fetching completed.
